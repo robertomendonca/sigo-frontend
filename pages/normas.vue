@@ -48,10 +48,11 @@ export default {
             value: 'descricao',
           },
           { text: 'Codigo', value: 'codigo' },
-          { text: 'idioma', value: 'idioma' },
-          { text: 'URL', value: 'url' },
+          { text: 'Idioma', value: 'idioma' },
+          { text: 'Categoria', value: 'categoria' },
           { text: 'Data da Criacao', value: 'created_at' },
-          { text: 'Data da Ultima Atualizacao', value: 'updated_at' },]
+          { text: 'Data da Ultima Atualizacao', value: 'data_atualizacao' },
+          { text: 'Link Repositorio', value: '' },]
       } catch (error) {
         <unauthorized />
       }
