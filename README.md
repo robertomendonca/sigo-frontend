@@ -1,6 +1,6 @@
 # sigo-frontend
 
-## Build Setup
+## Para realizar Build da Aplicacao sera necessario
 
 ```bash
 # install dependencies
